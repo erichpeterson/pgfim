@@ -1,0 +1,230 @@
+<?xml version="1.0" standalone=no>
+<dag>
+    <vertices>
+        <vertex value="112" />
+        <vertex value="111" />
+        <vertex value="110" />
+        <vertex value="109" />
+        <vertex value="108" />
+        <vertex value="107" />
+        <vertex value="106" />
+        <vertex value="105" />
+        <vertex value="104" />
+        <vertex value="103" />
+        <vertex value="102" />
+        <vertex value="101" />
+        <vertex value="100" />
+        <vertex value="99" />
+        <vertex value="98" />
+        <vertex value="97" />
+        <vertex value="96" />
+        <vertex value="95" />
+        <vertex value="94" />
+        <vertex value="93" />
+        <vertex value="92" />
+        <vertex value="91" />
+        <vertex value="90" />
+        <vertex value="89" />
+        <vertex value="88" />
+        <vertex value="87" />
+        <vertex value="86" />
+        <vertex value="85" />
+        <vertex value="84" />
+        <vertex value="83" />
+        <vertex value="82" />
+        <vertex value="81" />
+        <vertex value="80" />
+        <vertex value="79" />
+        <vertex value="78" />
+        <vertex value="77" />
+        <vertex value="76" />
+        <vertex value="-1" />
+        <vertex value="8" />
+        <vertex value="17" />
+        <vertex value="62" />
+        <vertex value="48" />
+        <vertex value="36" />
+        <vertex value="2" />
+        <vertex value="65" />
+        <vertex value="22" />
+        <vertex value="29" />
+        <vertex value="10" />
+        <vertex value="71" />
+        <vertex value="12" />
+        <vertex value="35" />
+        <vertex value="7" />
+        <vertex value="24" />
+        <vertex value="60" />
+        <vertex value="5" />
+        <vertex value="25" />
+        <vertex value="55" />
+        <vertex value="37" />
+        <vertex value="31" />
+        <vertex value="72" />
+        <vertex value="32" />
+        <vertex value="34" />
+        <vertex value="66" />
+        <vertex value="46" />
+        <vertex value="3" />
+        <vertex value="74" />
+        <vertex value="68" />
+        <vertex value="50" />
+        <vertex value="23" />
+        <vertex value="9" />
+        <vertex value="19" />
+        <vertex value="69" />
+        <vertex value="49" />
+        <vertex value="61" />
+        <vertex value="47" />
+        <vertex value="51" />
+        <vertex value="27" />
+        <vertex value="39" />
+        <vertex value="30" />
+        <vertex value="54" />
+        <vertex value="56" />
+        <vertex value="15" />
+        <vertex value="11" />
+        <vertex value="4" />
+        <vertex value="20" />
+        <vertex value="43" />
+        <vertex value="57" />
+        <vertex value="58" />
+        <vertex value="70" />
+        <vertex value="63" />
+        <vertex value="26" />
+        <vertex value="1" />
+        <vertex value="53" />
+        <vertex value="73" />
+        <vertex value="28" />
+        <vertex value="44" />
+        <vertex value="59" />
+        <vertex value="38" />
+        <vertex value="52" />
+        <vertex value="64" />
+        <vertex value="6" />
+        <vertex value="18" />
+        <vertex value="14" />
+        <vertex value="13" />
+        <vertex value="41" />
+        <vertex value="67" />
+        <vertex value="40" />
+        <vertex value="33" />
+        <vertex value="21" />
+        <vertex value="45" />
+        <vertex value="42" />
+        <vertex value="16" />
+    </vertices>
+    <edges>
+        <edge from="-1" to="112" />
+        <edge from="-1" to="111" />
+        <edge from="-1" to="110" />
+        <edge from="-1" to="109" />
+        <edge from="-1" to="108" />
+        <edge from="-1" to="107" />
+        <edge from="-1" to="106" />
+        <edge from="-1" to="105" />
+        <edge from="-1" to="104" />
+        <edge from="-1" to="103" />
+        <edge from="-1" to="102" />
+        <edge from="-1" to="101" />
+        <edge from="-1" to="100" />
+        <edge from="-1" to="99" />
+        <edge from="-1" to="98" />
+        <edge from="-1" to="97" />
+        <edge from="-1" to="96" />
+        <edge from="-1" to="95" />
+        <edge from="-1" to="94" />
+        <edge from="-1" to="93" />
+        <edge from="-1" to="92" />
+        <edge from="-1" to="91" />
+        <edge from="-1" to="90" />
+        <edge from="-1" to="89" />
+        <edge from="-1" to="88" />
+        <edge from="-1" to="87" />
+        <edge from="-1" to="86" />
+        <edge from="-1" to="85" />
+        <edge from="-1" to="84" />
+        <edge from="-1" to="83" />
+        <edge from="-1" to="82" />
+        <edge from="-1" to="81" />
+        <edge from="-1" to="80" />
+        <edge from="-1" to="79" />
+        <edge from="-1" to="78" />
+        <edge from="-1" to="77" />
+        <edge from="-1" to="76" />
+        <edge from="112" to="8" />
+        <edge from="112" to="17" />
+        <edge from="111" to="62" />
+        <edge from="111" to="48" />
+        <edge from="110" to="36" />
+        <edge from="110" to="2" />
+        <edge from="109" to="65" />
+        <edge from="109" to="22" />
+        <edge from="108" to="29" />
+        <edge from="108" to="10" />
+        <edge from="107" to="71" />
+        <edge from="107" to="12" />
+        <edge from="106" to="35" />
+        <edge from="106" to="7" />
+        <edge from="105" to="24" />
+        <edge from="105" to="60" />
+        <edge from="104" to="5" />
+        <edge from="104" to="25" />
+        <edge from="103" to="55" />
+        <edge from="103" to="37" />
+        <edge from="102" to="31" />
+        <edge from="102" to="72" />
+        <edge from="101" to="32" />
+        <edge from="101" to="34" />
+        <edge from="100" to="66" />
+        <edge from="100" to="46" />
+        <edge from="99" to="3" />
+        <edge from="99" to="74" />
+        <edge from="98" to="68" />
+        <edge from="98" to="50" />
+        <edge from="97" to="23" />
+        <edge from="97" to="9" />
+        <edge from="96" to="19" />
+        <edge from="96" to="69" />
+        <edge from="95" to="49" />
+        <edge from="95" to="61" />
+        <edge from="94" to="47" />
+        <edge from="94" to="51" />
+        <edge from="93" to="27" />
+        <edge from="93" to="39" />
+        <edge from="92" to="30" />
+        <edge from="92" to="54" />
+        <edge from="91" to="56" />
+        <edge from="91" to="15" />
+        <edge from="90" to="11" />
+        <edge from="90" to="4" />
+        <edge from="89" to="20" />
+        <edge from="89" to="43" />
+        <edge from="88" to="57" />
+        <edge from="88" to="58" />
+        <edge from="87" to="70" />
+        <edge from="87" to="63" />
+        <edge from="86" to="26" />
+        <edge from="86" to="1" />
+        <edge from="85" to="53" />
+        <edge from="85" to="73" />
+        <edge from="84" to="28" />
+        <edge from="84" to="44" />
+        <edge from="83" to="59" />
+        <edge from="83" to="38" />
+        <edge from="82" to="52" />
+        <edge from="82" to="64" />
+        <edge from="81" to="6" />
+        <edge from="81" to="18" />
+        <edge from="80" to="14" />
+        <edge from="80" to="13" />
+        <edge from="79" to="41" />
+        <edge from="79" to="67" />
+        <edge from="78" to="40" />
+        <edge from="78" to="33" />
+        <edge from="77" to="21" />
+        <edge from="77" to="45" />
+        <edge from="76" to="42" />
+        <edge from="76" to="16" />
+    </edges>
+</dag>
