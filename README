@@ -45,3 +45,6 @@ Example database with 3 transactions:
 
 An XML file is used to represent the taxonomy to be used. See a sample taxonomy in the
 datasets directory, as well as, example databases.
+
+CITATION:
+Erich A. Peterson and Peiyi Tang. Mining Probabilistic Generalized Frequent Itemsets in Uncertain Databases. In Proceedings of the 51tst ACM Southeast Conference (ACMSE), Savannah, GA, USA, April 2013.
